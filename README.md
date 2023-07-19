@@ -10,6 +10,11 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Wind speed and direction
 - In the background the app also shows the picture which is according to the weather
 
+# How to use
+click on the index.html to start the application and you must be connected to Internet to connext to API
+Then to check weather click on the search tab and type the name of city and click on search button.
+
+
 
 ### Live-Preview
 [Click Here to View Live Preview](https://amanovishnu.github.io/Weather-App/index.html)

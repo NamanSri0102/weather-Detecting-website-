@@ -17,7 +17,7 @@ Then to check weather click on the search tab and type the name of city and clic
 
 
 ### Live-Preview
-[Click Here to View Live Preview](https://amanovishnu.github.io/Weather-App/index.html)
+[Click Here to View Live Preview]
 
 ### Sample-Image
 ![Homepage](sample/sample.png)
